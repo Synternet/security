@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:security@synternet.com
+Expires: 2027-01-08T03:59:00.000Z
+Encryption: https://github.com/Synternet/security/blob/main/publickey.asc
+Preferred-Languages: en, lt
+Canonical: https://synternet.com/security.txt
+Policy: Please report security concerns to https://github.com/Synternet/security/
+Hiring: https://www.synternet.com/careers
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEAI/ltHkwGa6czhfeNnlTuOX8oVIFAmd+f/sACgkQNnlTuOX8
+oVKZsQ/+LmcW/jeD9TWwUOy8mrkCaAjJq+EF99JrJ18OxQ3QBkGcXp/Ccst7bJBw
+x7mQwKw7DQnRSA7U2UYqG6WQSwoCX6uUiGFDSAskycW4uF56XpxyMVqpYRnOTdKF
+ot1At9TlT4VWTDmni1++oIAM98BFfapAkfbJDZu96y1YnYr33lNV9iah5Rtme9Rb
+xYQUodJbYB0musp7YIzeyfc8xROyiyTHyJvvg/gWDuy8a6p/mhyQOPUQF+u8PhQu
+2HMhT6AfIo5WQpORnEtYQou4jYjQ23WQ8/KfGwgZzctzbnL2q2x4b6QUh0dFs5Qf
+A59tlVtqRc5AufDUSR4efvW4aDR2GqDGfEmFlXMaxrS69OId3hkaYLu2o5TXYbQi
+7VN97/LWyokg8hvEgm/VxUMhM3DWOlREDJeC41nsG5SaCktRT2r4D94UIRVIXjUc
+jj9RWl3wAV5b9oJp1bGiqPZP9ddZOz6o4iJG2dIvAXnF2MhpBaamOjK3xrdY9nmC
+Kuq/hawqc/zGPGTNPdkUDtx9LpMDOATXSPvIRZ1Owm3vQ3ZI37ltzsuMWy6C2iAs
+T3f6EJr7++4f4oOC16wR8Bg4e+6f1Zr7sRQ/VKumfpLVt7JXYUJkIXvmcUfTuidp
+ddG3yoqQMRoPeyTw2FBm4HXuPx1vxHqIpmiSNZ43jkgXQvspSFI=
+=wwjT
+-----END PGP SIGNATURE-----
