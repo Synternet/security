@@ -9,7 +9,7 @@ If you believe you’ve found a security vulnerability in one of our systems, pl
 ### How to Report
 - **Email:** [security@synternet.com](mailto:security@synternet.com)
 - **PGP Key:** [Download our public key](https://synternet.com/pgp-key.txt) to encrypt sensitive information.
-- **Bug Bounty Program:** Synternet Limited partners with [HackerOne](https://hackerone.com/synternet) for vulnerability submissions.
+- **Bug Bounty Program:** [Bug bounty progam info](https://github.com/Synternet/security/blob/main/bug_bounty.md)) for vulnerability submissions.
 
 Please include as much detail as possible:
 - A description of the vulnerability
@@ -26,7 +26,6 @@ We will respond to your submission as follows:
 ### Scope
 The following systems and applications are within scope:
 - All systems hosted on the `*.synternet.com` domain
-- Synternet mobile applications
 - Synternet APIs
 
 **Out of Scope:**
@@ -45,8 +44,8 @@ Synternet Limited pledges not to initiate legal action against researchers who:
 Researchers who responsibly disclose valid security vulnerabilities may be eligible for rewards through our bug bounty program. Recognition may also include inclusion in our [Hall of Fame](https://synternet.com/security/hall-of-fame).
 
 ## Additional Resources
-- [Security Policy](https://synternet.com/security/policy)
-- [Hall of Fame](https://synternet.com/security/hall-of-fame)
+- [Security Policy]([https://synternet.com/security/policy](https://github.com/Synternet/security/blob/main/README.md))
+- [Hall of Fame]([https://synternet.com/security](https://github.com/Synternet/security/blob/main/hall-of-fame.md)
 - [Careers at Synternet](https://synternet.com/careers)
 
 Thank you for helping us keep Synternet Limited secure!
