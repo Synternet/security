@@ -8,7 +8,7 @@ If you believe you’ve found a security vulnerability in one of our systems, pl
 
 ### How to Report
 - **Email:** [security@synternet.com](mailto:security@synternet.com)
-- **PGP Key:** [Download our public key](https://synternet.com/pgp-key.txt) to encrypt sensitive information.
+- **PGP Key:** [Download our public key](https://raw.githubusercontent.com/Synternet/security/refs/heads/main/publickey.asc) to encrypt sensitive information.
 - **Bug Bounty Program:** [Bug bounty progam info](https://github.com/Synternet/security/blob/main/bug_bounty.md) for vulnerability submissions.
 
 Please include as much detail as possible:
