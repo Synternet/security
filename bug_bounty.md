@@ -13,18 +13,17 @@ To qualify for a reward:
 
 ---
 
-## **Scope**
-
-### In-Scope Assets:
-- All systems under `*.synternet.com`
+### Scope
+The following systems and applications are within scope:
+- All systems hosted on the `*.synternet.com` domain
 - Synternet APIs
-- Synternet mobile and web applications
+- Synternet blockchain
+- Synternet Smart Contracts on Ethereum network
 
-### Out-of-Scope:
-- Denial-of-service (DoS) attacks
-- Third-party platforms and dependencies
-- Social engineering attacks (e.g., phishing)
-- Physical security vulnerabilities
+**Out of Scope:**
+- Third-party services and platforms
+- Social engineering attacks
+- Distributed Denial-of-service attacks (DDoS)
 
 ---
 
