@@ -1,6 +1,6 @@
-# Synternet Limited Security Policy
+# Synternet Security Policy
 
-At Synternet Limited, the security of our systems, applications, and customer data is a top priority. We appreciate the efforts of the security community to help us identify and address vulnerabilities.
+At Synternet, the security of our systems, applications, and customer data is a top priority. We appreciate the efforts of the security community to help us identify and address vulnerabilities.
 
 ## Reporting Security Vulnerabilities
 
@@ -27,11 +27,13 @@ We will respond to your submission as follows:
 The following systems and applications are within scope:
 - All systems hosted on the `*.synternet.com` domain
 - Synternet APIs
+- Synternet blockchain
+- Synternet Smart Contracts on Ethereum network
 
 **Out of Scope:**
 - Third-party services and platforms
 - Social engineering attacks
-- Denial-of-service attacks
+- Distributed Denial-of-service attacks (DDoS)
 
 ### Safe Harbor
 Synternet Limited pledges not to initiate legal action against researchers who:
@@ -41,11 +43,11 @@ Synternet Limited pledges not to initiate legal action against researchers who:
 
 ## Recognition and Rewards
 
-Researchers who responsibly disclose valid security vulnerabilities may be eligible for rewards through our bug bounty program. Recognition may also include inclusion in our [Hall of Fame](https://synternet.com/security/hall-of-fame).
+Researchers who responsibly disclose valid security vulnerabilities may be eligible for rewards through our bug bounty program. Recognition may also include inclusion in our [Hall of Fame](https://github.com/Synternet/security/blob/main/hall-of-fame.md).
 
 ## Additional Resources
 - [Security Policy](https://github.com/Synternet/security/blob/main/README.md)
 - [Hall of Fame](https://github.com/Synternet/security/blob/main/hall-of-fame.md)
 - [Careers at Synternet](https://synternet.com/careers)
 
-Thank you for helping us keep Synternet Limited secure!
+Thank you for helping us keep Synternet secure!
